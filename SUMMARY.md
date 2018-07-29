@@ -1,0 +1,21 @@
+# Table of contents
+
+* [Cover](README.md)
+* [Introduction](introduction.md)
+* [How AWS IoT works](how-aws-iot-works.md)
+* [IoT devices](iot-devices.md)
+* [AWS IoT Components](aws-iot-components.md)
+* [Device Gateway](device-gateway.md)
+* [AWS IoT Device SDK](aws-iot-device-sdk.md)
+* [Rules Engine](rules-engine.md)
+* [Lesson 1: Creating an AWS Account](lesson-1-creating-an-aws-account.md)
+* [Lesson 2: Explore the AWS Console](lesson-2-explore-the-aws-console.md)
+* [Lesson 3: Create an IoT device](lesson-3-create-an-iot-device.md)
+* [Lesson 3A: Create a Policy for the IoT device](lesson-3a-create-a-policy-for-the-iot-device.md)
+* [Lesson 4: Create a Certificate](lesson-4-create-a-certificate.md)
+* [Lesson 5: Testing the Comunication Edison to AWS](lesson-5-testing-the-comunication-edison-to-aws.md)
+* [Lesson 6: Review the Policy](lesson-6-review-the-policy.md)
+* [Lesson 7: Creating a Table to store our results.](lesson-7-creating-a-table-to-store-our-results..md)
+* [Lesson 8: Create a Rule](lesson-8-create-a-rule.md)
+* [lesson9-\_using\_the\_amazon\_cli.md](lesson9-_using_the_amazon_cli.md.md)
+
